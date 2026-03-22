@@ -5,6 +5,7 @@
 ## Notes-ruRU: Коллекция настроек и улучшений для стандартного пользовательского интерфейса.
 ## Version: GIT
 ## Dependencies: ShaguTweaks
+## SavedVariables: ShaguTweaksMapData
 
 # translations
 locales\translations_deDE.lua
